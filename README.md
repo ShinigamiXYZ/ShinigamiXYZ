@@ -2,7 +2,7 @@
 
 Watashi wa shinigamiXYZ desu
 
-e2295344@cmaisonneuve.qc.ca
+sh1n1g4m1.XYZ@gmail.com
 
 Paving my way into the digital 'verse.
 
