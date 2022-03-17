@@ -1,5 +1,6 @@
-### Hi there 👋 looking foward to do great things
+### ohayo gozaimasu👋 
 
+Watashi was shinigamiXYZ deska
 
 <!--
 **ShinigamiXYZ/ShinigamiXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
