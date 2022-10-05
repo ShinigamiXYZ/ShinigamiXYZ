@@ -6,7 +6,7 @@ sh1n1g4m1.XYZ@gmail.com
 
 Paving my way into the digital 'verse.
 
-living in MTL, Canada part-time Jiujitero full-time student of programming, mainly web development.
+living in MTL, Canada part-time Jiujitero full-time programming student, mainly web development.
 
 Can't wait to hop on great projects and collabs.
 
