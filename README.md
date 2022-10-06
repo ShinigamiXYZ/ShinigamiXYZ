@@ -25,3 +25,8 @@ Feel free to reach.
 Cheers.
 
 ---
+<div id="footer" align="center">
+ <img src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="225"/>
+  
+</div>
+
