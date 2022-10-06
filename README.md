@@ -1,11 +1,7 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/qUABlXKRRvfQobzIXp/giphy.gif" width="50vw" height="300px"/>
  </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/godinyohann/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 ---
 
@@ -23,6 +19,11 @@ Feel free to reach.
 
 Cheers.
 
+<div id="badges" align="start">
+  <a href="https://www.linkedin.com/in/godinyohann/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ---
 <div id="footer" align="center">
  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="225"/>
