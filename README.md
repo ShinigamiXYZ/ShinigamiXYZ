@@ -8,17 +8,13 @@
   </a>
 </div>
 
-### ohayo gozaimasu👋 
+# 🥷 about me :
 
-Watashi wa shinigamiXYZ desu
+My name is Yohann AKA ShinigamiXYZ and i'm a full-time programming student, mainly web development.
 
-sh1n1g4m1.XYZ@gmail.com
-
-Paving my way into the digital 'verse.
+Slowly Paving my way into the digital 'verse.
 
 living in MTL, Canada.
-
-Part-time Jiujitero full-time programming student, mainly web development.
 
 Can't wait to hop on great projects and collabs.
 
