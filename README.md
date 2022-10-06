@@ -4,8 +4,8 @@
 
 ---
 
-## Currently working with : 
-
+<div class"wrapper" display="flex"> 
+<div><h1>Currently Working with : </h1></div>
 <div id="badges" align="center">
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
@@ -15,7 +15,7 @@
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 	 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
-
+</div>
 ---
 
 # 🥷 about me :
