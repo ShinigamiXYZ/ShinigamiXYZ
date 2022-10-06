@@ -27,7 +27,7 @@ Cheers.
 
 ---
 
-<div><h1>Currently Working with : </h1></div>
+<div align="center"><h2>Currently Working with</h2></div>
 <div id="badges" align="center">
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
