@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="225"/>
+ <img src="https://media.giphy.com/media/qUABlXKRRvfQobzIXp/giphy.gif" width="100%" height="300px"/>
  </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/godinyohann/">
