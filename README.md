@@ -7,17 +7,17 @@
 
 # 🥷 about me :
 
-> My name is <strong> Yohann </strong> AKA <mark> ShinigamiXYZ </mark> and i'm a full-time programming student, mainly web development.
+ My name is <strong> Yohann </strong> AKA <mark> ShinigamiXYZ </mark> and i'm a full-time programming student, mainly web development.
 
-> Slowly Paving my way into the digital 'verse.
+ Slowly Paving my way into the digital 'verse.
 
-> living in MTL, Canada.
+ living in MTL, Canada.
 
-> Can't wait to hop on great projects and collabs.
+ Can't wait to hop on great projects and collabs.
 
-> Feel free to reach.
+ Feel free to reach.
 
-> Cheers.
+ Cheers.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/godinyohann/">
