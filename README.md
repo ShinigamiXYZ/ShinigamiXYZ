@@ -1,7 +1,6 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-  
-</div>
+ <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="225"/>
+ </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/godinyohann/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,7 +11,7 @@
 
 # 🥷 about me :
 
-My name is Yohann AKA ShinigamiXYZ and i'm a full-time programming student, mainly web development.
+My name is <strong> Yohann </strong> AKA <mark> ShinigamiXYZ </mark> and i'm a full-time programming student, mainly web development.
 
 Slowly Paving my way into the digital 'verse.
 
