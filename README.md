@@ -4,7 +4,7 @@
 
 ---
 
-<div class"wrapper" display="flex"> 
+<div class="wrapper" style="display:flex;"> 
 <div><h1>Currently Working with : </h1></div>
 <div id="badges" align="center">
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
