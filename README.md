@@ -8,6 +8,8 @@
   </a>
 </div>
 
+---
+
 # 🥷 about me :
 
 My name is Yohann AKA ShinigamiXYZ and i'm a full-time programming student, mainly web development.
@@ -21,3 +23,5 @@ Can't wait to hop on great projects and collabs.
 Feel free to reach.
 
 Cheers.
+
+---
