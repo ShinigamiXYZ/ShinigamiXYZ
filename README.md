@@ -7,7 +7,7 @@
 
 # about me :
 
- My name is <strong> Yohann </strong> AKA <mark> ShinigamiXYZ </mark> and i'm a full-time programming student, mainly web development.
+ My name is <strong> Yohann </strong> AKA <mark> ShinigamiXYZ </mark> .
 
  Slowly Paving my way into the digital 'verse.
 
