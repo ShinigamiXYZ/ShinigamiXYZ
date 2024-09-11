@@ -1,13 +1,18 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qUABlXKRRvfQobzIXp/giphy.gif" width="100" height="150" alt="Header GIF"/>
-
+   
   # Hi, I'm Yohann (aka shinx) 👋
 
   🌍 Based in Montreal, Canada  
   💻 Passionate about infrastructure, security, and development  
   🚀 Always looking for exciting new projects and collaborations
 
+
+  
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godinyohann/)
+
+
+
 
   ## Technologies I Work With
 
@@ -28,7 +33,11 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
+
+
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="225" alt="Footer GIF"/>
+
+
 
   Feel free to connect! Cheers. 🍻
 </div>
